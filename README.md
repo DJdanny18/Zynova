@@ -57,46 +57,6 @@ Sistema para gestionar y controlar un parqueadero. Registra la hora de entrada y
 
 ---
 
-## 📁 Secciones de la página
-
-- **Inicio:** nombre completo, descripción personal, área de interés y fotografía.
-- **Sobre mí:** formación académica, habilidades, intereses profesionales y tecnologías.
-- **Tecnologías:** las que conozco o estoy aprendiendo.
-- **Proyectos:** tres proyectos con nombre, descripción, tecnologías, imagen y enlace (si está disponible).
-
----
-
-## 🗂️ Estructura del repositorio
-
-```
-/
-├── index.html      # Toda la página (estilos y scripts incluidos)
-├── README.md       # Este archivo
-├── foto.jpg        # Fotografía personal
-└── img/
-    ├── proyecto1.jpg
-    ├── proyecto2.jpg
-    └── proyecto3.jpg
-```
-
----
-
-## 💻 Cómo verlo en tu computador
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/DJdanny18/Zynova.git
-   ```
-2. Abre el archivo `index.html` en tu navegador.
-
----
-
-## 🌐 Publicación con GitHub Pages
-
-1. Ve a **Settings → Pages** en el repositorio.
-2. En **Source**, elige la rama `main` y la carpeta `/ (root)`.
-3. Guarda. En unos minutos la página estará disponible en la URL indicada arriba.
-
 ---
 
 ## 📬 Contacto
